@@ -1,0 +1,6 @@
+r
+halt
+loadfile "e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code\USER\build\Target 1\Project.hex"
+r
+go
+exit

@@ -1,0 +1,93 @@
+[2025-03-22 14:39:48]	[info] incremental build: 63 source files changed
+These source files will be recompiled
+---
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\CODE\startup_stm32f40xx.s': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\misc.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_adc.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_can.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_cec.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_crc.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_cryp.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_cryp_aes.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_cryp_des.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_cryp_tdes.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_dac.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_dbgmcu.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_dcmi.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_dfsdm.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_dma.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_dma2d.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_dsi.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_exti.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_flash.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_flash_ramfunc.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_fmpi2c.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_fsmc.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_gpio.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_hash.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_hash_md5.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_hash_sha1.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_i2c.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_iwdg.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_lptim.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_ltdc.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_pwr.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_qspi.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_rcc.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_rng.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_rtc.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_sai.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_sdio.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_spdifrx.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_spi.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_syscfg.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_tim.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_usart.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\FWLIB\src\stm32f4xx_wwdg.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Beep.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\DHT11.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Dcmi.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Delay.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Esp8266.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Iic.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Key.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Led.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Num_Keyboard.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\OV2640.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Oled.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Pwm.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\RC522.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Sccb.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\System.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Tim.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\HAEDWARE\Src\Usart.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\USER\Src\main.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\USER\Src\stm32f4xx_it.c': object (.o) file not exist
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\Code(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD)\USER\Src\system_stm32f4xx.c': object (.o) file not exist
+
+[2025-03-22 14:39:50]	[done]
+	build successfully !
+
+[2025-03-22 16:38:11]	[done]
+	build successfully !
+
+[2025-03-22 16:39:26]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\00Code\Code_HardWare(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD OV2640)\HAEDWARE\Src\Dcmi.c': dependence 'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\00Code\Code_HardWare(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD OV2640)\USER\..\HAEDWARE\inc\OV2640.h' has been changed.
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\00Code\Code_HardWare(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD OV2640)\HAEDWARE\Src\OV2640.c': source file has been changed.
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\00Code\Code_HardWare(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD OV2640)\USER\Src\main.c': source file has been changed.
+
+[2025-03-22 16:39:27]	[done]
+	build successfully !
+
+[2025-03-22 16:43:19]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\00Code\Code_HardWare(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD OV2640)\HAEDWARE\Src\Dcmi.c': dependence 'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\00Code\Code_HardWare(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD OV2640)\USER\..\HAEDWARE\inc\OV2640.h' has been changed.
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\00Code\Code_HardWare(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD OV2640)\HAEDWARE\Src\OV2640.c': source file has been changed.
+'e:\The-Senior-Year\The-first-semester-of-senior-year\Graduation Project\00Code\Code_HardWare(LED KEY BEEP DHT11 UART RC522 OLED ESP8266 NUM_KEYBOARD OV2640)\USER\Src\main.c': source file has been changed.
+
+[2025-03-22 16:43:20]	[done]
+	build successfully !
+

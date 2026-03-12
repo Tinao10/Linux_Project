@@ -1,0 +1,1 @@
+"F:\MDK537\ARM\ARMCC\bin\armasm.exe" --apcs=interwork -ISrc -I../CODE -I../FWLIB/inc -I../HAEDWARE/inc -IRTE/_Project --cpu Cortex-M4.fp --li --pd "__MICROLIB SETA 1" -g -o .\build\Project\.obj\__\CODE\startup_stm32f40xx.o --depend .\build\Project\.obj\__\CODE\startup_stm32f40xx.d .\..\CODE\startup_stm32f40xx.s
